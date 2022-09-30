@@ -1,4 +1,5 @@
 Name: Inuyasha
 Crush: Kikyo
 Wife: Hirugashi Kagome
-Weapon: Tetsaiga
+Friends: Miroku, Sango, Shippo
+
